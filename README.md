@@ -20,3 +20,14 @@ The program provides functionalities to add, update, delete, search, and list cl
 ## 🛠️ Technologies Used
 - **C++** (Standard Library: `<iostream>`, `<fstream>`, `<vector>`, `<string>`, `<iomanip>`)
 - **File Handling** for data storage (`Clients.txt`)
+  
+# Simple Banking Management System
+
+This is an **updated version** of my Banking Management System project.  
+New features have been added and the code has been improved.
+
+## New Features:
+- Deposit and Withdraw functionalities.
+- Show total balances for all clients.
+- Better structured code with reusable functions.
+- Enhanced client management (add, update, delete, find).
